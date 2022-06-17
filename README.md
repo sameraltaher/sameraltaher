@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sameraltaher
-- 👀 I’m interested in ambient sound, noise, nature, kindness, food
+- 👀 I’m interested in ambient sound, noise, nature, kindness, food, international trade and demographic data
 - 🌱 I’m currently learning HTML, CSS, and JS through the Odin Project 
 - 💞️ I’m looking to collaborate on projects that involve the publishing and sharing of random sound/noise field recordings.
-- 📫 How to reach me: message me here!
+- 📫 How to reach me: right here!
 
 <!---
 sameraltaher/sameraltaher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
